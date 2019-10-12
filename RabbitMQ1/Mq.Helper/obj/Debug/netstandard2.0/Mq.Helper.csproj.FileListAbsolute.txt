@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\bin\Debug\netstandard2.0\Mq.Helper.deps.json
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\bin\Debug\netstandard2.0\Mq.Helper.dll
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\obj\Debug\netstandard2.0\Mq.Helper.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\obj\Debug\netstandard2.0\Mq.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\obj\Debug\netstandard2.0\Mq.Helper.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\obj\Debug\netstandard2.0\Mq.Helper.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\bin\Debug\netstandard2.0\Mq.Helper.pdb
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\obj\Debug\netstandard2.0\Mq.Helper.dll
+C:\Users\Administrator\source\repos\RabbitMQ1\Mq.Helper\obj\Debug\netstandard2.0\Mq.Helper.pdb
